@@ -21,9 +21,10 @@ chmod +x install-from-source-repository.sh
 
 ## Examples
 ### Vanilla
-SOURCE_REPOSITORY=git@github.com:OpenXcom/OpenXcom.git
-FLAVOUR=vanilla
-SHELL_PROFILE=~/.bashrc 
+SOURCE_REPOSITORY=git@github.com:OpenXcom/OpenXcom.git  
+FLAVOUR=vanilla  
+SHELL_PROFILE=~/.bashrc  
+
 ```shell
 ./install-from-source-repository.sh
 ```
